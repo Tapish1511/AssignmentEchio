@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo Video
 
-![video](https://github.com/Tapish1511/AssignmentEchio/assets/87308840/4f87c5b2-5d7d-4259-80d6-f6e0d8a06bb8)
+https://github.com/Tapish1511/AssignmentEchio/assets/87308840/4f87c5b2-5d7d-4259-80d6-f6e0d8a06bb8
 
 
 ## Available Scripts
