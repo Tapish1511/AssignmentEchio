@@ -1,0 +1,157 @@
+[
+    {
+        "name": "dummy name1",
+        "popularity": 1000,
+        "preference": "barter",
+        "plateform": "instagram",
+        "engagement": 1000000,
+        "avg": 10000000,
+        "category": "autos"
+    },
+
+    {
+        "name": "dummy name2",
+        "popularity": 500000,
+        "preference": "barter",
+        "plateform": "youtube",
+        "engagement": 1660000,
+        "avg": 3400000,
+        "category": "autos"
+    },
+
+    {
+        "name": "dummy name3",
+        "popularity": 9800009,
+        "preference": "barter",
+        "plateform": "instagram",
+        "engagement": 5600000,
+        "avg": 1000000,
+        "category": "autos"
+    },
+
+    {
+        "name": "dummy name4",
+        "popularity": 69004,
+        "preference": "paid",
+        "plateform": "instagram",
+        "engagement": 900000,
+        "avg": 5000000,
+        "category": "autos"
+    },
+
+    {
+        "name": "dummy name5",
+        "popularity": 234990,
+        "preference": "barter",
+        "plateform": "youtube",
+        "engagement": 679990,
+        "avg": 450000,
+        "category": "autos"
+    },
+
+    {
+        "name": "dummy name6",
+        "popularity": 78504,
+        "preference": "paid",
+        "plateform": "youtube",
+        "engagement": 4000000,
+        "avg": 1200000,
+        "category": "autos"
+    },
+
+    {
+        "name": "dummy name7",
+        "popularity": 7288899,
+        "preference": "barter",
+        "plateform": "instagram",
+        "engagement": 1570000,
+        "avg": 1900000,
+        "category": "autos"
+    },
+
+    {
+        "name": "dummy name8",
+        "popularity": 459904,
+        "preference": "barter",
+        "plateform": "youtube",
+        "engagement": 6894994,
+        "avg": 2030443,
+        "category": "autos"
+    },
+
+
+    {
+        "name": "dummy name9",
+        "popularity": 6899940,
+        "preference": "paid",
+        "plateform": "youtube",
+        "engagement": 3409398,
+        "avg": 5039345,
+        "category": "autos"
+    },
+
+    {
+        "name": "dummy name10",
+        "popularity": 1045432,
+        "preference": "barter",
+        "plateform": "instagram",
+        "engagement": 7899430,
+        "avg": 5940030,
+        "category": "autos"
+    },
+
+
+    {
+        "name": "dummy name11",
+        "popularity": 4500,
+        "preference": "paid",
+        "plateform": "instagram",
+        "engagement": 4985032,
+        "avg": 5089922,
+        "category": "autos"
+    },
+
+
+    {
+        "name": "dummy name12",
+        "popularity": 30000,
+        "preference": "barter",
+        "plateform": "youtube",
+        "engagement": 5839912,
+        "avg": 6000004,
+        "category": "autos"
+    },
+
+
+    {
+        "name": "dummy name13",
+        "popularity": 5302945,
+        "preference": "paid",
+        "plateform": "instagram",
+        "engagement": 4509314,
+        "avg": 2003924,
+        "category": "autos"
+    },
+
+
+    {
+        "name": "dummy name14",
+        "popularity": 4392032,
+        "preference": "barter",
+        "plateform": "instagram",
+        "engagement": 9840332,
+        "avg": 1228299,
+        "category": "autos"
+    },
+
+    {
+        "name": "dummy name15",
+        "popularity": 60000,
+        "preference": "paid",
+        "plateform": "youtube",
+        "engagement": 4850302,
+        "avg": 6094932,
+        "category": "autos"
+    }
+
+]
